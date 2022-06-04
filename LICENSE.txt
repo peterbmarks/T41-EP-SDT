@@ -1,0 +1,13 @@
+This comment block must appear in the load page (e.g., main() or setup()) in any source code
+that uses code presented as whole or part of the T41-EP source code.
+
+(c) Frank Dziock, DD4WH, 2020_05_8
+"TEENSY CONVOLUTION SDR" substantially modified by Jack Purdum, W8TEE, and Al Peter, AC8GY
+
+This software is made available under the Freeware license agreement, which prevents the use of
+the software for commercial use. If any commercial use of this software is planned, the interested
+parties must first get written approval from Jack Purdum, W8TEE, and Al Peter, AC8GY. User for non-
+commerical use is acceptable.
+
+Any and all other commercial uses, written or implied, are forbidden without written permission from
+Dr. Jack Purdum, W8TEE, and Al Peter, AC8GY.
