@@ -1,7 +1,9 @@
 # T41-EP-SDT
-Source and design files for the open source Software Defined Transceiver
+Source and design files for the open source Software Defined Transceiver.
 
-These files are from the 7z file on https://groups.io/g/SoftwareControlledHamRadio
+The files accompany the book "Software Defined Radio Transceiver" by Albert F. Peter, AC8GY and Dr. Jack Purdum, W8TEE. ISBN 9798446384280 https://www.amazon.com/Software-Defined-Radio-Transceiver-Construction/dp/B09WYP1ST8
+
+These files are from the 7z file in the files area on https://groups.io/g/SoftwareControlledHamRadio
 
 "This ZIP file contains the BOMs, Gerbers, Schematics, and Source code for the T41-EP Project done by Jack Purdum, W8TEE, and Al Peter, AC8GY. 
 
